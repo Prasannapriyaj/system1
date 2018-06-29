@@ -1,1 +1,1 @@
-The details will be saved in a database
+The details of patient,doctor and staff will be collected
