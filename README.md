@@ -1,1 +1,4 @@
-The details of patient,doctor and staff will be collected
+the deatils of call taking from the public
+resource indentification
+resource mobilisation
+resource management
